@@ -26,3 +26,7 @@ Backend curso de React: de cero a experto
 
 # npm i cors
 (habilitar cors)
+
+# git remote -v 
+
+# heroku logs -n 1000 --tail
